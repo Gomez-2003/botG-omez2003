@@ -1,12 +1,12 @@
 <p align="center">
 
-<img src="IMG-20211023-WA0081.jpg" width="140" height="140"/>
+<img src="IMG-20211023-WA0081.jpg" width="200" height="200"/>
 
 </p>
 
 <p align="center">
 
-𝗖𝗥𝗘𝗔𝗗𝗢𝗥: 𝕿𝖍𝖊𝕮𝖍𝖔𝖚𝖙𝖊
+𝗖𝗥𝗘𝗔𝗗𝗢𝗥: 𝔾𝕆𝕄𝔼ℤ
 
 </p>
 
