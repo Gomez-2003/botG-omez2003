@@ -1,25 +1,25 @@
-const ytchoute = 'https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg'
-const gitchoute = 'github.com/Thechoute'
+const ytchoute = 'xd no hay'
+const gitchoute = ''
 const instachoute = '@the_choute_'
-const whachoute = 'wa.me/18299897014'
-const gpwha = 'https://chat.whatsapp.com/'
+const whachoute = 'wa.me/+573135621474'
+const gpwha = https://chat.whatsapp.com/GnHOw7tyWOQ9h1kUvjy0Yv
 
-module.exports = {
+module.exports ={
      ytchoute, 
-    gitchoute,
+     gitchoute,
 instachoute.
 whachoute,
-    gpwha, }
+    gpwha,}
 
 
 
 
-    ytchoute, 
+    
 
-    gitchoute,
+    
 
-instachoute,
 
-whachoute,
 
-gpwha,
+
+
+
