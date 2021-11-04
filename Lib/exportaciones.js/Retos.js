@@ -7,7 +7,6 @@ Debes de ponerte una foto de pefil elegida por uno de los otros jugadores por 20
 └────「 *𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊* 」`
 
 const R2 = `*RETO:*\n Pasa el pack de una hormiga\n _By Thechoute_`
-
 const R3 = `*RETO:*\n Dile a tus amigos que te vas a casar conmigo y mándame una captura\n _By Thechoute_`
 
 const R4 = `*RETO:*\n Grita desde la ventana que me quieres y mándame el vídeo.\n _By Thechoute_`
