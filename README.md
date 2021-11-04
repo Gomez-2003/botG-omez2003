@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="./media/imagenes/Baby-Bechoso.png" width="140" height="140"/>
+<img src="IMG-20211023-WA0081.jpg" width="140" height="140"/>
 
 </p>
 
