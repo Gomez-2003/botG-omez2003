@@ -27,7 +27,7 @@ Clona este repositorio
 ```
 Inicia la instalacion
 ```bash
-- cd Base
+- cd botG-omez2003
 - bash install.sh
 ```
 PARA INICIAR EL BOT
