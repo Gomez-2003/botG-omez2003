@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="IMG-20211023-WA0081.jpg" width="200" height="200"/>
+<img src="media.jpg" width="200" height="200"/>
 
 </p>
 
