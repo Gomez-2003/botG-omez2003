@@ -1,81 +1,39 @@
 <p align="center">
-
-<img src="media/imagen.png" width="200" height="200"/>
-
-
+<img src="./media/imagen.jpeg" width="140" height="140"/>
 </p>
-
 <p align="center">
+NAME BOT: 👾𝑻𝒀𝑹𝑶𝑵𝑬👾
 
-𝗖𝗥𝗘𝗔𝗗𝗢𝗥: 𝔾𝕆𝕄𝔼ℤ
+### MIS CONTACTOS
+<p>
+<a href="http://wa.me/18299897014" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/the_choute_" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=flat&logo=youtube" /></a>
 
-</p>
-
-</p>
-
-REDES SOCIALES
-
-</p>
-
-El bot aun no esta finalizado.
-
-Si necesita mas informacion o el bot le presenta algun problema, recuerda notificarmero a por mis redes.
-
-</p>
-
-<a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg"><img src="/media/redes/youtube.png" width="40" height="40"</a>
-
-<br>
-
-<a href="wa.me/18299897014"><img src="/media/redes/whatsapp.png" width="40" height="40"</a>
-
-<br>
-
- <a href="https://www.instagram.com/the_choute_/"><img src="/media/redes/instagram.png" width="40" height="40"</a>
-
+ 
 </p>
 
 ### PROCESO DE INSTALACION
-
-Insttala archivos necesarios
-
+Instala archivos necesarios
 ```bash
-
 - pkg upgrade && update
-
 - pkg install nodejs
-
 - pkg install git
-
 - pkg install bash
-
 ```
-
 Clona este repositorio
-
  ```bash
-
-> git clone https://github.com/thechoute/BabyBechoso
-
+> git clone https://github.com/Gomez-2003/botG-omez2003
 ```
-
 Inicia la instalacion
-
 ```bash
-
-- cd BabyBechoso
-
+- cd Base
 - bash install.sh
-
 ```
-
 PARA INICIAR EL BOT
 
  ```bash
-
 - npm start
-
 ```
-
 
 
