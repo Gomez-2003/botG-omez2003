@@ -63,7 +63,7 @@ fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
 },
 message: {
-"documentMessage": { "title": "𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊", 'jpegThumbnail': fs.readFileSync('./media/logo.jpg')}}
+"documentMessage": { "title": ">👾𝑻𝒀𝑹𝑶𝑵𝑬👾<", 'jpegThumbnail': fs.readFileSync('./media/logo.png')}}
 }})
 }
 
