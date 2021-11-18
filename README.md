@@ -6,8 +6,8 @@ NAME BOT: 👾𝑻𝒀𝑹𝑶𝑵𝑬👾
 
 ### MIS CONTACTOS
 <p>
-<a href="http://wa.me/18299897014" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/the_choute_" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="http://wa.me/+573135621474" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/tyrone_bot_2003" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.youtube.com/channel/UC-HPutaDGeTPjrCId0bXQgg" target="blank"><img src="https://img.shields.io/badge/Youtube-30302f?style=flat&logo=youtube" /></a>
 
  
