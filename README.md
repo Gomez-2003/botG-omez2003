@@ -1,6 +1,7 @@
 <p align="center">
 
-<img src="media/imagen.jpg" width="200" height="200"/>
+<img src="media/imagen.png" width="200" height="200"/>
+
 
 </p>
 
