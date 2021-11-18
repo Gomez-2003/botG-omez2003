@@ -1,5 +1,5 @@
 <p align="center">
-<img botG-omez2003="./media/imagen.png" width="140" height="140"/>
+<img src="media/imagen.png" width="140" height="140"/>
 </p>
 <p align="center">
 NAME BOT: 👾𝑻𝒀𝑹𝑶𝑵𝑬👾
